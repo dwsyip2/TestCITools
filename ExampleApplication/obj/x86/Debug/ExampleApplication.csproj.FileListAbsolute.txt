@@ -1,0 +1,20 @@
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\ExampleApplication.exe
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\ExampleApplication.pdb
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\mscorlib.dll
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\nunit.framework.dll
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\nunit.framework.xml
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\normidna.nlp
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\normnfc.nlp
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\normnfd.nlp
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\normnfkc.nlp
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\bin\Debug\normnfkd.nlp
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\obj\x86\Debug\ExampleApplication.csprojResolveAssemblyReference.cache
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\obj\x86\Debug\ExampleApplication.exe
+C:\Users\4313526\Documents\Projects\ExampleApplication\ExampleApplication\obj\x86\Debug\ExampleApplication.pdb
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Pass Task 10.1\ExampleApplication\ExampleApplication\obj\x86\Debug\ExampleApplication.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Pass Task 10.1\ExampleApplication\ExampleApplication\obj\x86\Debug\ExampleApplication.exe
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Pass Task 10.1\ExampleApplication\ExampleApplication\obj\x86\Debug\ExampleApplication.pdb
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Pass Task 10.1\ExampleApplication\ExampleApplication\bin\Debug\ExampleApplication.exe
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Pass Task 10.1\ExampleApplication\ExampleApplication\bin\Debug\ExampleApplication.pdb
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Pass Task 10.1\ExampleApplication\ExampleApplication\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Pass Task 10.1\ExampleApplication\ExampleApplication\bin\Debug\nunit.framework.xml
